@@ -1,0 +1,4 @@
+MyJavaExperiments
+=================
+
+class containing methods
